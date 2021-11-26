@@ -13,7 +13,7 @@ As a ..., I want to ..., so I can ...
 
 # Acceptance criteria
 
-- [-] This is something that can be verified to show that this user story is satisfied.
+- [ ] This is something that can be verified to show that this user story is satisfied.
 
 # Sprint Ready Checklist 
 1. - [ ] Acceptance criteria defined 
